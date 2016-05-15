@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name time-shower
 // @description User script for color timeplates
-// @author Opokin Pavel
+// @author Sayales
 // @license MIT
 // @version 0.1
 // @include https://2ch.hk/*
