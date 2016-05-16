@@ -89,8 +89,4 @@
         var nextDateParsed = dateParse(nextDate);
         return nextDateParsed - currDateParsed;
     }
-
-    function getBaseLog(x, y) {
-        return Math.log(y) / Math.log(x);
-    }
 }).call(this);
